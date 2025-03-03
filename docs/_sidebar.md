@@ -3,7 +3,7 @@
   - [What is Sigma API](/what_is_sigmaapi)
   - [Getting Started](/getting_started)
 - **Usage with AI Agents**
-    - [with Warp](/example_warp)
+    - [with Warp](/with_warp)
 - **Usage API**
     - [for Developers](/for_developers)
     - [for Analysts](/for_analysts)
