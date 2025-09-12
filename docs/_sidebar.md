@@ -1,11 +1,9 @@
 <!-- docs/_sidebar.md -->
-- **Introduction**
-  - [What is Sigma API](/what_is_sigmaapi)
-  - [Getting Started](/getting_started)
+- [Getting Started](/getting_started)
 - **Usage with AI Agents**
-    - [with Warp](/with_warp)
-- **Usage API**
-    - [for Developers](/for_developers)
-    - [for Analysts](/for_analysts)
-    - [for Scientists](/for_scientists)
-    - [for Marketers](/for_marketers)
+  - [with Warp](/with_warp)
+- [**Usage API**](/usage_api)
+  - [Jupiter / Python](/jupiter_python)
+  - [Go](/golang)
+- **Live Demo**
+  - [Swagger](https://demo.sigmaapi.com/)
