@@ -1,11 +1,13 @@
 <!-- docs/_sidebar.md -->
 - [**What is Sigma API**](/getting_started)
+- [Rendering for SEO](/rendering_seo)
+  - [Usage with UI](/rendering_via_ui)
+  - [Usage with API](/rendering_via_api)
+  - [Nginx Configuration](/usage_with_nginx)
 - [Web Scraping](/web_scraping)
+- [Work with AI](/work_with_ai)
+- **Examples**
   - [Usage with Jupiter / Python](/jupiter_python)
   - [Usage with Go](/golang)
-- [Rendering for SEO](/rendering_seo)
-  - [Live Examples](/live_examples)
-  - [Usage with Nginx](/usage_with_nginx)
-- [Work with AI](/work_with_ai)
 - **Live Demo**
   - [API Console](https://console.sigmaapi.com/api/v1/)
