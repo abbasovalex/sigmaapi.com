@@ -1,6 +1,4 @@
 # What is Sigma API
 
-This is a ready cloud API for:
-- [web scraping](/web_scraping)
-- [rendering for SEO](/rendering_seo)
-- [AI agents](/with_warp)
+Sigma API is a ready-to-use cloud API for [web scraping](/web_scraping), [rendering for SEO](/rendering_seo) and [powering AI agents](/with_warp).
+Collect data from any website, make your SPA visible to search engines, and enhance your AI workflows.

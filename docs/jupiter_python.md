@@ -1,4 +1,8 @@
 # Jupiter / Python Example
+
+You can collect data for your projects from any website.
+Sigma API supports JavaScript-heavy sites, with built-in protection bypass.
+
 ```python
 import requests
 import time

@@ -1,5 +1,5 @@
 # Usage with Warp
-Open the settings section of your Warp console then add to MCP Servers new server:  
+You can connect Sigma API to your Warp terminal. Open the settings section of your Warp console then add to MCP Servers new server:  
 
 ```json
 {
