@@ -1,10 +1,9 @@
 <!-- docs/_sidebar.md -->
 - [**What is Sigma API**](/getting_started)
 - [Web Scraping](/web_scraping)
+  - [Usage with Jupiter / Python](/jupiter_python)
+  - [Usage with Go](/golang)
 - [Rendering for SEO](/rendering_seo)
-- [**Usage Examples**](/usage_examples)
-  - [Warp AI Agent ](/with_warp)
-  - [Jupiter / Python](/jupiter_python)
-  - [Go](/golang)
+- [Work with AI](/work_with_ai)
 - **Live Demo**
   - [API Console](https://demo.sigmaapi.com/)
