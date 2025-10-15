@@ -11,6 +11,6 @@ It prerenders your Vue, React, Angular, or other JavaScript-based apps for faste
 | https://vk.com/services | [![Rendering for SEO](/images/vk_com_services.png "Rendering for SEO of https://vk.com/services") Open in New Tab](https://sigmaapi.com/v1/get?requestId=6c17f36f-6fa3-4dfc-8cb3-9ea9eeada4d0&format=seo) |
 
 #### How to use?
-- Try our [online API Console](https://demo.sigmaapi.com/).
+- Try our [online API Console](https://demo.sigmaapi.com/api/v1/).
 - You can use our API endpoints from your code and IDE. See [Usage API section](/usage_examples).
 - Contact with us: [Denis Kolesnikov](https://t.me/gervilion), [Abbasov Alexander](https://t.me/abbasovalex)
