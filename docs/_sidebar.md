@@ -6,4 +6,4 @@
 - [Rendering for SEO](/rendering_seo)
 - [Work with AI](/work_with_ai)
 - **Live Demo**
-  - [API Console](https://demo.sigmaapi.com/)
+  - [API Console](https://demo.sigmaapi.com/api/v1/)
