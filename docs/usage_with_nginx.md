@@ -35,3 +35,16 @@ http {
     }
 }
 ```
+
+**We’ve prepared a demo page.**
+If you visit the [page](https://demo-seo-nginx.sigmaapi.com/) as a regular user, you’ll see «Hello, world!»
+But if you visit it as a Google, Yandex, or other search engine bot, you’ll see «This is a static page for SEO User-Agents»
+
+You can also check it using cURL.
+
+```terminaloutput
+$  curl https://demo-seo-nginx.sigmaapi.com
+Hello, World!
+$  curl -H "User-Agent: googlebot" https://demo-seo-nginx.sigmaapi.com
+This is static page for SEO User-Agents
+```
