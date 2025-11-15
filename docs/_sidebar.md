@@ -10,4 +10,4 @@
   - [Usage with Jupiter / Python](/jupiter_python)
   - [Usage with Go](/golang)
 - **Live Demo**
-  - [API Console](https://console.sigmaapi.com/api/v1/)
+  - [API Console](https://console.sigmaapi.com/)
