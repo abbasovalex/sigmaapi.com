@@ -20,9 +20,10 @@ _Example:_
 ```python
 import requests
 import time
+import urllib.parse
 
-your_url = "https://github.com/abbasovalex/sigmaapi.com"
-# add site to queue
+your_url = urllib.parse.quote("https://github.com/abbasovalex/sigmaapi.com", safe='')
+# add to queue
 response = requests.get("https://sigmaapi.com/v1/add?uri=%s" % your_url,
                         headers={'X-Auth-Token': '<YOUR_API_KEY>'})
 if response.status_code == 201:

@@ -12,6 +12,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"net/url"
 	"time"
 )
 
@@ -29,7 +30,7 @@ type SecondResponse struct {
 
 func addToQueue(uri string) FirstResponse {
 
-	req, err := http.NewRequest("GET", "https://sigmaapi.com/v1/add?uri="+uri, nil)
+	req, err := http.NewRequest("GET", "https://sigmaapi.com/v1/add?uri="+url.QueryEscape(uri), nil)
 	if err != nil {
 		log.Fatalf("Error creating request: %v", err)
 	}
