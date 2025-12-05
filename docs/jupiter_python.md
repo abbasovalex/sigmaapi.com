@@ -91,7 +91,7 @@ if response.status_code == 200:
 | uri        | string | Site URL (with http or https)                                                                                                                   |
 | status     | string | There are three statuses: "in queue", "fail", and "done". In case of an error, the status "fail" will be returned along with the error details. |
 | sourcePage | HTML   | The page’s source code or an empty string.                                                                                                      |
-| cookies    | string | An escaped JSON list of keys or an empty string. Use `JSON.parse()` or another approach to decode values.                                       |
+| cookies    | string | A list of keys or an empty string.                                                                                                              |
 
 
 
