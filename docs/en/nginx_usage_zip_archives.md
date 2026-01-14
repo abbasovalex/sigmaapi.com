@@ -1,4 +1,4 @@
-# Usage with Nginx
+# Using ZIP Archives from the SigmaAPI UI with Your Own Nginx
 The following instructions explain how to configure your Nginx server to serve rendered static files for Google, Yandex, and Telegram.
 It’s very easy! You only need to add two code blocks and place the folder with the rendered files on your web server. That’s it.
 
@@ -19,7 +19,9 @@ It’s very easy! You only need to add two code blocks and place the folder with
 _The root directive specifies the document root, which is the base directory where Nginx searches for files when serving requests._
 
 3. Placing the static files to ```/path/to/seo/static/files```
-<p class="warn">Where can I get the rendered files? You can either prepare and download it as a ZIP from the <a href="#/rendering_via_ui">UI</a> or generate it yourself when using our <a href="#/rendering_via_api">API</a>.
+<p class="warn">
+<strong>Where can you get the rendered files?</strong><br>
+You can download them as a ZIP archive from the <a href="#/rendering_via_ui">UI</a> and extract it to <code>/path/to/seo/static/files</code>
 
 4. After placing the static files on your server and replacing the paths with the correct ones, check that your changes didn’t break the Nginx configuration by running: ```nginx -t```:
 5. Restart Nginx: ```nginx -s reload```
