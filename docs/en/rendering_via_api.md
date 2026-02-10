@@ -7,7 +7,7 @@ The API offers greater flexibility, but you’ll need to handle task submission 
 
 #### Try to use
 1. Get your API key by [signing up](https://sigmaapi.com/accounts/register/) now.
-2. Learn how to use Sigma API with Python and Go [examples](/usage_examples).
+2. Learn how to use Sigma API with [Python](/jupiter_python) and [Go](/golang) examples.
 3. You can experiment and test requests directly in our [online API Console](https://console.sigmaapi.com/api/v1/).
 
 _[Contact](https://sigmaapi.com/contacts) with us if you stuck._
